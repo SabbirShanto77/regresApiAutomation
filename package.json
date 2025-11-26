@@ -1,0 +1,17 @@
+{
+  "name": "apiautomationassessment",
+  "version": "1.0.0",
+  "description": "It's for API Automation Assessment",
+  "license": "ISC",
+  "author": "Sabbir Hossain Shanto",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.41.2",
+    "allure-commandline": "^2.34.1",
+    "cypress": "^15.7.0"
+  }
+}
