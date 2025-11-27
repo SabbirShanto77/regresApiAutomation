@@ -7,14 +7,14 @@ export class AssessmentApi {
       method: "POST",
       url: `${this.baseUrl}/users`,
       body: payload
-    });
+    })
   }
 
   getUser(id) {
     return cy.request({
       method: "GET",
       url: `${this.baseUrl}/users/${id}`
-    });
+    })
   }
 
   updateUser(id, payload) {
@@ -22,14 +22,14 @@ export class AssessmentApi {
       method: "PUT",
       url: `${this.baseUrl}/users/${id}`,
       body: payload
-    });
+    })
   }
 
   deleteUser(id) {
     return cy.request({
       method: "DELETE",
       url: `${this.baseUrl}/users/${id}`
-    });
+    })
   }
 
 }

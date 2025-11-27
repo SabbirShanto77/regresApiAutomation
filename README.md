@@ -12,8 +12,6 @@ Professional API automation test suite built with Cypress to validate the ReqRes
 - **✅ Complete CRUD Testing** - Create, Read, Update, Delete operations
 - **🏗️ Professional Architecture** - Service layer pattern implementation
 - **📊 Allure Reporting** - Detailed test execution insights
-- **🔧 Data-Driven Tests** - Externalized test configuration
-- **⚡ CI/CD Ready** - GitHub Actions compatible
 
 ## 🛠️ Tech Stack
 
