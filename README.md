@@ -28,3 +28,20 @@ Professional API automation test suite built with Cypress to validate the ReqRes
 - **`fixtures/custom_data.json`** - Test data and configurations
 - **`cypress.config.js`** - Cypress configuration settings
 - **`package.json`** - Project dependencies and npm scripts
+
+
+## 🏃‍♂️ Quick Start
+
+### Prerequisites
+- Node.js 16 or higher
+- Git
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/SabbirShanto77/regresApiAutomation.git
+
+2. **Install Dependencies**
+   ```bash
+   npm install
